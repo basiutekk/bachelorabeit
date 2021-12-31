@@ -1,0 +1,155 @@
+c 200 vertices
+c 1037 edges
+c 1011 edges after de-duplication
+c COMPONENT 200
+c incumbent from local search 49
+c incumbent from local search 50
+c incumbent from local search 52
+c incumbent from local search 53
+c incumbent from local search 54
+c incumbent from local search 56
+c incumbent from local search 57
+c incumbent from local search 58
+c incumbent from local search 59
+c incumbent from local search 60
+c incumbent from local search 61
+c incumbent from local search 62
+s vc 200 138
+1
+3
+4
+5
+6
+7
+8
+10
+12
+13
+14
+15
+16
+17
+18
+19
+21
+23
+24
+25
+26
+28
+29
+30
+31
+32
+34
+35
+36
+37
+38
+39
+40
+43
+46
+49
+50
+51
+54
+56
+58
+59
+62
+65
+67
+69
+70
+71
+73
+74
+75
+76
+77
+78
+79
+82
+83
+84
+85
+86
+87
+90
+91
+92
+93
+94
+95
+97
+99
+100
+102
+103
+106
+107
+108
+109
+110
+111
+114
+115
+116
+117
+118
+121
+122
+123
+124
+126
+127
+128
+130
+131
+133
+134
+136
+137
+138
+139
+140
+142
+143
+144
+146
+147
+149
+151
+152
+154
+156
+157
+158
+160
+161
+162
+163
+165
+168
+169
+171
+172
+176
+178
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+193
+194
+195
+198
+200

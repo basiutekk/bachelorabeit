@@ -1,0 +1,14 @@
+build/
+.DS_Store
+*.model
+log.txt
+build_cpuonly/
+.vscode/
+html/
+*~
+*.swp
+make_common
+**/mnist/data/
+saved*/
+debug*
+results/

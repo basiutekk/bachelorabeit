@@ -1,0 +1,47 @@
+c 29076 vertices
+c 45570 edges
+c 45570 edges after de-duplication
+c COMPONENT 2148
+c incumbent from local search 316
+c incumbent from local search 317
+c incumbent from local search 318
+c incumbent from local search 319
+c incumbent from local search 320
+c incumbent from local search 321
+c incumbent from local search 322
+c incumbent from local search 323
+c incumbent from local search 324
+c incumbent from local search 328
+c incumbent from local search 329
+c incumbent from local search 331
+c incumbent from local search 333
+c incumbent from local search 334
+c incumbent from local search 335
+c incumbent from local search 336
+c incumbent from local search 337
+c incumbent from local search 338
+c incumbent from local search 339
+c incumbent from local search 340
+c incumbent from local search 341
+c incumbent from local search 342
+c incumbent from local search 343
+c incumbent from local search 344
+c incumbent from local search 345
+c incumbent from local search 346
+c incumbent from local search 347
+c incumbent from local search 348
+c incumbent from local search 349
+c incumbent from local search 350
+c incumbent from local search 351
+c incumbent from local search 352
+c incumbent from local search 353
+c incumbent from local search 354
+c incumbent from local search 355
+c incumbent from local search 356
+c incumbent from local search 357
+c incumbent from local search 358
+c incumbent from local search 359
+c incumbent from local search 360
+c incumbent from local search 361
+c incumbent from local search 362
+c incumbent from local search 363
